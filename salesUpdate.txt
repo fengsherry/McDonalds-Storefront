@@ -1,0 +1,9 @@
+Revenue: $275.54
+Customer count: 1
+Revenue: $0.00, Total Revenue (since running program): $0.00, Customer Count (since running program): 1.
+Revenue: $0.00, Total Revenue (since running program): $0.00, Customer Count (since running program): 1.
+Revenue: $29.95, Total Revenue (since running program): $29.95, Customer Count (since running program): 1.
+Revenue: $20.48, Total Revenue (since running program): $20.48, Customer Count (since running program): 1.
+Revenue: $20.69, Total Revenue (since running program): $41.17, Customer Count (since running program): 2.
+Revenue: $0.00, Total Revenue (since running program): $0.00, Customer Count (since running program): 1.
+Revenue: $2.00, Total Revenue (since running program): $2.00, Customer Count (since running program): 1.

@@ -1,0 +1,30 @@
+Big Mac
+50
+5.99
+McChicken
+93
+5.99
+Fries
+164
+3.49
+McMuffin
+59
+2.49
+McWrap
+78
+4.49
+Coffee
+293
+3.50
+Soft Drink
+490
+2.50
+My soul
+0
+0.01
+hey
+0
+1.00
+
+0
+0.00
